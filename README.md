@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mudroljub, and I am creating 3D worlds.
+- 👋 Hi, I’m @mudroljub, I am creating 3D worlds.
 - 👀 I’m interested in Three.js, game development and 3D graphics in general.
 - 🌱 I’m currently learning linear algebra.
 - 💞️ I’m interested to work on some Three.js/Webgl project.
